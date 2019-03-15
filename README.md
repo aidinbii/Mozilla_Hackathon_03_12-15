@@ -8,7 +8,4 @@ Two different sentiment analysis were implemented to determine the "mood" of a s
 Stanford CoreNLP is a deep learning model and VADER-Sentiment-Analysis is a dictionary based model. The latter splits the input sentence to tokens and applies grammatical and syntactical rules to compare it with the dictionary. The former model predominantly uses probabilistic machine learning and deep learning components and does not use any rules.
 
 # The team 
-Feruza Asanova
-Daniiar Abdiev 
-Aliya Ismailova
-Aidin Biibosunov
+Feruza Asanova, Daniiar Abdiev, Aliya Ismailova and Aidin Biibosunov
