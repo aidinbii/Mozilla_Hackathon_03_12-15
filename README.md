@@ -10,5 +10,12 @@ Stanford CoreNLP is a deep learning model and VADER-Sentiment-Analysis is a dict
 # Audio data
 Link to audio files parsed from govori.tv  
 https://drive.google.com/open?id=183s3HO1UyNas4BqS0i8D6-ZwDR8ket6-
+
+# Usage
+These scripts run on Python 3. 
+To use the scripts you need to have the following libraries:
+selenium, BeautifulSoup, requests;
+SentimentIntensityAnalyzer, StanfordCoreNLP, Translator, pandas.
+
 # The team 
 Feruza Asanova, Daniiar Abdiev, Aliya Ismailova and Aidin Biibosunov
